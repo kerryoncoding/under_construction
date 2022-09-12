@@ -3,16 +3,33 @@ body {
 }
 
 .info-sign {
+    display: block;
+    margin: 0 auto;
+    margin-top: 200px;
     text-align: center;
-    margin: 200px;
+    max-width:50%;
     background-color: #F6CD04;
     color: #000000;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 h1 {
     font-size: 60px;
+    margin: 10px;
+}
+
+h2 {
+    font-size: 40px;
+    margin: 0;
+    padding-top: 20px;
+}
+
+h3 {
+font-size: 30px;
 }
 
 i {
+    padding: 10px;
     font-size: 200px;
 }
